@@ -1,0 +1,30 @@
+Familie  
+Vater  
+Mutter  
+Eltern (Pl)
+Sohn  
+Tochter  
+Großvater   
+Opa  
+Großmutter   
+Oma  
+Großeltern (Pl)
+Enkelin  
+Enkel  
+Bruder  
+Schwester  
+Geschwister (Pl)
+(Ehe)Mann 
+(Ehe)Frau  
+Bild  
+Freund  
+Kollege  
+Partner  
+ja
+nein
+doch
+ein bisschen
+bitte
+genau
+mein
+dein
